@@ -71,6 +71,7 @@ button, input { font: inherit; }
     font-size: 17px;
 }
 
+
 nav { display: flex; align-items: center; gap: 28px; }
 nav a {
     text-decoration: none;
