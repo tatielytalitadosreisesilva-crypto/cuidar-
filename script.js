@@ -63,4 +63,4 @@ function proximaTela() {
 
     if (telaAtual >= telas.length) {
         telaAtual = 0;
-    }
+ }
